@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="233mm" xmlns="http://www.w3.org/2000/svg" height="102mm" version="1.1" viewBox="0 0 881 386" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="711,203 711,326 463,326" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="710" cy="229" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <polyline fill="none" points="526,317 553,326 526,335 526,317" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="556" cy="326" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <text x="710" y="329" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Relation_1</text>
+   <polyline fill="none" points="626,178 485,178" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="588" cy="177" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <polyline fill="none" points="491,168 517,178 491,187 491,168" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="520" cy="177" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <text x="551" y="172" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Relation_2</text>
+   <polyline fill="none" points="366,332 366,219" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="365" cy="309" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <polyline fill="none" points="375,209 366,236 356,209 375,209" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="365" cy="239" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <text x="365" y="274" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Relation_3</text>
+   <polyline fill="none" points="455,328 455,217" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="454" cy="309" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <polyline fill="none" points="464,209 455,236 445,209 464,209" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="454" cy="239" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <text x="454" y="274" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Relation_4</text>
+   <polyline fill="none" points="603,53 498,53" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="587" cy="53" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <polyline fill="none" points="488,44 515,53 488,63 488,44" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="518" cy="53" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <text x="550" y="47" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Relation_5</text>
+   <polyline fill="none" points="153,151 153,59 303,59" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="152" cy="134" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <polyline fill="none" points="315,68 288,59 315,50 315,68" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="284" cy="59" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <text x="152" y="62" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Relation_6</text>
+   <polyline fill="none" points="718,153 718,75" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="718" cy="130" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <polyline fill="none" points="727,65 718,92 709,65 727,65" stroke="#00aaaa" stroke-width="1"/>
+   <ellipse cx="718" cy="95" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+   <text x="718" y="113" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Relation_7</text>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b0ffff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="146" fill="url(#Gradient1)" width="241" height="128" stroke="#00aaaa" stroke-width="1"/>
+   <text x="122" y="157" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Users</text>
+   <line x1="2" x2="243" y1="163" y2="163" stroke="#00aaaa" stroke-width="1"/>
+   <text x="7" y="173" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Email</text>
+   <text x="7" y="186" fill="#000000" font-size="10" font-family="Arial">Firstname</text>
+   <text x="7" y="199" fill="#000000" font-size="10" font-family="Arial">Password</text>
+   <text x="7" y="212" fill="#000000" font-size="10" font-family="Arial">LastName</text>
+   <text x="7" y="225" fill="#000000" font-size="10" font-family="Arial">Username</text>
+   <text x="7" y="238" fill="#000000" font-size="10" font-family="Arial">DayOfBirth</text>
+   <text x="7" y="251" fill="#000000" font-size="10" font-family="Arial">State</text>
+   <text x="66" y="173" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="95" y="173" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Caractère variable (150)</text>
+   <text x="95" y="186" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <text x="95" y="199" fill="#000000" font-size="10" font-family="Arial">Caractère variable (500)</text>
+   <text x="95" y="212" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <text x="95" y="225" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <text x="95" y="238" fill="#000000" font-size="10" font-family="Arial">Date</text>
+   <text x="95" y="251" fill="#000000" font-size="10" font-family="Arial">Entier</text>
+   <text x="216" y="173" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <text x="216" y="186" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="216" y="199" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="216" y="212" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="216" y="225" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="216" y="238" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="216" y="251" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <line x1="2" x2="243" y1="258" y2="258" stroke="#00aaaa" stroke-width="1"/>
+   <text x="7" y="268" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="7" y="279" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="75" y="268" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b0ffff"/>
+      </linearGradient>
+   </defs>
+   <rect x="599" y="142" fill="url(#Gradient2)" width="253" height="76" stroke="#00aaaa" stroke-width="1"/>
+   <text x="725" y="153" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Category</text>
+   <line x1="599" x2="852" y1="159" y2="159" stroke="#00aaaa" stroke-width="1"/>
+   <text x="603" y="169" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">IdCategory</text>
+   <text x="603" y="182" fill="#000000" font-size="10" font-family="Arial">CategoryLabel</text>
+   <text x="603" y="195" fill="#000000" font-size="10" font-family="Arial">State</text>
+   <text x="680" y="169" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="709" y="169" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="709" y="182" fill="#000000" font-size="10" font-family="Arial">Caractère variable (30)</text>
+   <text x="709" y="195" fill="#000000" font-size="10" font-family="Arial">Entier</text>
+   <text x="824" y="169" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <text x="824" y="182" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <line x1="599" x2="852" y1="202" y2="202" stroke="#00aaaa" stroke-width="1"/>
+   <text x="603" y="212" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="603" y="223" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="671" y="212" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b0ffff"/>
+      </linearGradient>
+   </defs>
+   <rect x="302" y="6" fill="url(#Gradient3)" width="200" height="90" stroke="#00aaaa" stroke-width="1"/>
+   <text x="402" y="17" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Bet</text>
+   <line x1="302" x2="502" y1="23" y2="23" stroke="#00aaaa" stroke-width="1"/>
+   <text x="306" y="33" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">IdBet</text>
+   <text x="306" y="46" fill="#000000" font-size="10" font-family="Arial">BetValue</text>
+   <text x="306" y="59" fill="#000000" font-size="10" font-family="Arial">BetDate</text>
+   <text x="306" y="72" fill="#000000" font-size="10" font-family="Arial">WinningRate</text>
+   <text x="375" y="33" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="404" y="33" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="404" y="46" fill="#000000" font-size="10" font-family="Arial">Monnaie</text>
+   <text x="404" y="59" fill="#000000" font-size="10" font-family="Arial">Date système</text>
+   <text x="404" y="72" fill="#000000" font-size="10" font-family="Arial">Décimal (6,2)</text>
+   <text x="475" y="33" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <text x="475" y="46" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="475" y="59" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="475" y="72" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <line x1="302" x2="502" y1="79" y2="79" stroke="#00aaaa" stroke-width="1"/>
+   <text x="306" y="89" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="306" y="101" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="374" y="89" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b0ffff"/>
+      </linearGradient>
+   </defs>
+   <rect x="598" y="2" fill="url(#Gradient4)" width="281" height="76" stroke="#00aaaa" stroke-width="1"/>
+   <text x="738" y="13" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">BetCategory</text>
+   <line x1="598" x2="879" y1="19" y2="19" stroke="#00aaaa" stroke-width="1"/>
+   <text x="603" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">IdBetCategory</text>
+   <text x="603" y="42" fill="#000000" font-size="10" font-family="Arial">BetCategoryLabel</text>
+   <text x="603" y="55" fill="#000000" font-size="10" font-family="Arial">CurrentWinningRate</text>
+   <text x="706" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="735" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="735" y="42" fill="#000000" font-size="10" font-family="Arial">Caractère variable (30)</text>
+   <text x="735" y="55" fill="#000000" font-size="10" font-family="Arial">Décimal (6,2)</text>
+   <text x="850" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <text x="850" y="42" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="850" y="55" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <line x1="598" x2="879" y1="62" y2="62" stroke="#00aaaa" stroke-width="1"/>
+   <text x="603" y="72" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="603" y="83" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="671" y="72" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b0ffff"/>
+      </linearGradient>
+   </defs>
+   <rect x="315" y="146" fill="url(#Gradient5)" width="189" height="76" stroke="#00aaaa" stroke-width="1"/>
+   <text x="409" y="157" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Match</text>
+   <line x1="315" x2="504" y1="163" y2="163" stroke="#00aaaa" stroke-width="1"/>
+   <text x="320" y="173" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">IdMatch</text>
+   <text x="320" y="186" fill="#000000" font-size="10" font-family="Arial">MatchDate</text>
+   <text x="320" y="199" fill="#000000" font-size="10" font-family="Arial">State</text>
+   <text x="379" y="173" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="408" y="173" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="408" y="186" fill="#000000" font-size="10" font-family="Arial">Date système</text>
+   <text x="408" y="199" fill="#000000" font-size="10" font-family="Arial">Entier</text>
+   <text x="478" y="173" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <text x="478" y="186" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <text x="478" y="199" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <line x1="315" x2="504" y1="206" y2="206" stroke="#00aaaa" stroke-width="1"/>
+   <text x="320" y="216" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="320" y="227" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="388" y="216" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b0ffff"/>
+      </linearGradient>
+   </defs>
+   <rect x="300" y="320" fill="url(#Gradient6)" width="239" height="64" stroke="#00aaaa" stroke-width="1"/>
+   <text x="419" y="331" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Team</text>
+   <line x1="300" x2="539" y1="337" y2="337" stroke="#00aaaa" stroke-width="1"/>
+   <text x="305" y="347" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">IdTeam</text>
+   <text x="305" y="360" fill="#000000" font-size="10" font-family="Arial">TeamName</text>
+   <text x="368" y="347" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="397" y="347" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="397" y="360" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <text x="512" y="347" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <text x="512" y="360" fill="#000000" font-size="10" font-family="Arial">&lt;O&gt;</text>
+   <line x1="300" x2="539" y1="367" y2="367" stroke="#00aaaa" stroke-width="1"/>
+   <text x="305" y="377" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="305" y="389" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="373" y="377" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+</svg>
